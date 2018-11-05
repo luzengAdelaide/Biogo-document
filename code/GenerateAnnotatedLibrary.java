@@ -20,8 +20,8 @@ GenerateAnnotatedLibrary
 		SSR.txt (list of sequences identified as SSRs, and the SSR they matched)
 		protein.txt (list of the sequences identified as proteins and the protein they matched)
 		//LA4v2-satellite.fa (a satellite sequence for which no consensus sequence was found)
-		/home/a1635743/RepBase20.04.fasta/*rep.ref (RepBase libraries to base 
-			classification on)
+		/home/a1635743/RepBase20.04.fasta/ (RepBase20.04.fasta is a directory that stores the repbase libraries to base 
+			classification on, which are end up with ".ref")
 	Outputs: wantedCSHeaders.txt (for checking individual sequence headers)
 		R4_Library.fasta (The annotated library)
 ***************************/
